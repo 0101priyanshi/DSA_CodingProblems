@@ -1,5 +1,6 @@
 package org.example.matrix;
 
+//means row will become column
 public class Transpose_SquareMatrix {
     public static void main(String[] args) {
 
